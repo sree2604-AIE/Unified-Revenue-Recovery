@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](frontend/src/assets/hero.png)
 
+### 🎬 [Watch the Full AI Orchestrator Demo Video Here](https://github.com/sree2604-AIE/Unified-Revenue-Recovery/raw/main/media/demo_video.mp4)
+
 > An AI-driven intervention orchestrator for payment declines, checkout abandons, and overdue receivables. Built for the Razorpay AI Intern Buildathon (Track 3: Revenue Recovery).
 
 Traditional revenue recovery systems operate as "blunt instruments." They blindly spam customers with retries every 24 hours, burning through limited retry budgets, ignoring compliance opt-outs, and treating all failures identically. 
